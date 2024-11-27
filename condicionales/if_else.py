@@ -18,6 +18,8 @@ else:
     print("todo mal, aguante faker")
 
 
+
+
 ingreso_mensual = 82000
 gasto_mensual = 80000
 
