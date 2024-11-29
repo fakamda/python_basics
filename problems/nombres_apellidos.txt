@@ -1,0 +1,17 @@
+Los datos son:
+
+Nombre: facundo 
+ Apellido: dominguez 
+-----
+Nombre: juan 
+ Apellido: lopez 
+-----
+Nombre: ruperto 
+ Apellido: ruperstinsky 
+-----
+Nombre: ekko 
+ Apellido: time 
+-----
+Nombre: nose 
+ Apellido: eson 
+-----
